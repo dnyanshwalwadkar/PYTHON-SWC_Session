@@ -2,6 +2,8 @@
 # Python Programming Sessions Notes - Open for All
 Welcome to the repository where learning Python transcends the boundaries of traditional education. Here, you'll find a comprehensive collection of notes, examples, and real-world analogies that I've meticulously crafted and used in my Python programming sessions. These resources have illuminated the path of programming for over 3000 students of SWC club and different enegineering college studnets, and now, I'm thrilled to open this treasure trove to the entire community.
 
+![DNYANESh](Images/thumbnail.png)
+
 # 🚀 About This Repository
 This repository is more than just a collection of notes; it's a journey through the realms of Python programming, designed to inspire, educate, and empower both beginners and seasoned programmers alike.
 
